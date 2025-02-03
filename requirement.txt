@@ -10,4 +10,4 @@ pyhton-magic-bin==0.4.14
 OpenAI==0.28.0
 huggingface-hub==0.6.0
 sentence-transformers==2.2.0
-dotenv==0.19.2
+
