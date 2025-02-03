@@ -1,5 +1,5 @@
 # ResearchMate
- ![Image](https://github.com/user-attachments/assets/2bf856d0-5b44-4602-abf1-70a716c953dc)
+![Image](https://github.com/user-attachments/assets/01cae259-eaaa-4851-a6f7-02e1026e1917)
 **Research Mate** is an **end-to-end generative AI** chatbot built using **Streamlit**, **LangChain**, **OpenAI**, and other modern AI techniques. It enables users to input research URLs, extracts valuable insights, processes the data, and provides answers to user queries, offering a seamless experience for researchers, students, and professionals.
 
 The app utilizes embeddings and document retrieval techniques, along with **OpenAI’s language models**, to deliver meaningful responses based on the content extracted from research articles, web pages, or any other content provided through URLs.
