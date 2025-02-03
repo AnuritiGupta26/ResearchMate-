@@ -1,0 +1,7 @@
+faiss_store_groq.pkl
+faiss_store_local.pkl
+bin 
+lib
+.env
+network.xml
+.gitattributes
