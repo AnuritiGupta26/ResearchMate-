@@ -73,6 +73,8 @@ Once the app is running:
 3. Ask a question about the research content in the text input box.
 4. The system will generate and display answers based on the URL content, with **OpenAI**’s language models providing refined and context-specific responses.
 
+To run : streamlit run .\main.py
+
 
 
 
